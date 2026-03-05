@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+Working on automating my warehosue one project at a time.
+warehouse_parser -> parsing all my part numbers and PO numbers into an excel spreadsheet for easier invoicing.
+Phase 2 of parser will have a rules based .csv to do 90% of what I used to do.
+PDF-TIFF converter. Needed a local converter that didn't rely on users downloading them from the internet so I put together something local and safe.
+Saved a lot of clicks with this one.
 <!--
 **DerrickDW/DerrickDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
