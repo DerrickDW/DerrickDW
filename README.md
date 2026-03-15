@@ -3,6 +3,7 @@
 Builder of strange but useful tools.
 
 ### Current Projects
+- 📦 **Warehouse PDF Parser** — automated extraction of parts data from messy PDFs with rule-based cleanup and validation (Python & C# versions)
 - 🐒 **MONKEYTOOLS** — a chaotic CLI toolbox for automation and diagnostics
 - 🌐 **Website Skeleton** — a lightweight cyberpunk-themed site framework (yes, I touched frontend)
 - 🔧 **CAR710W Reverse Engineering** — firmware exploration and UI asset extraction for the Jensen CAR710W head unit
