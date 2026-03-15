@@ -1,20 +1,29 @@
-## Hi there 👋
-Working on automating my warehosue one project at a time.
-warehouse_parser -> parsing all my part numbers and PO numbers into an excel spreadsheet for easier invoicing.
-Phase 2 of parser will have a rules based .csv to do 90% of what I used to do.
-PDF-TIFF converter. Needed a local converter that didn't rely on users downloading them from the internet so I put together something local and safe.
-Saved a lot of clicks with this one.
-<!--
-**DerrickDW/DerrickDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Derrick Welch
 
-Here are some ideas to get you started:
+Builder of strange but useful tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- 🐒 **MONKEYTOOLS** — a chaotic CLI toolbox for automation and diagnostics
+- 🌐 **Website Skeleton** — a lightweight cyberpunk-themed site framework (yes, I touched frontend)
+- 🔧 **CAR710W Reverse Engineering** — firmware exploration and UI asset extraction for the Jensen CAR710W head unit
+- 📄 **PDF → TIFF Converter** — automated conversion tool that solved a legacy workflow issue
+
+
+### Tech
+Python • C# • CLI tools • automation • parsing • reverse engineering
+
+---
+
+🚬🐒 systems unstable for a long time
+
+---
+
+Every developer leaves a tag.
+
+Mine is the monkey.
+
+There's a story behind it —  
+a county fair, some questionable decisions,  
+and a monkey that probably shouldn't have been smoking.
+
+Hire me and maybe I’ll tell you the rest.
