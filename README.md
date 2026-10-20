@@ -82,6 +82,20 @@ Because clicking "Next" 47 times is not a feature.
 
 ## Open Source
 
+### 🏆 World First(?) — Funky Hat iOS End-to-End
+
+**October 20, 2026 | Fedora 44 | No Mac Required**
+
+Successfully compiled, provisioned, signed, and deployed a native SwiftUI application to a physical iPhone entirely from Fedora Linux using `xtool` and `omarchy-apple-dev`.
+
+Possibly the first publicly documented end-to-end native iOS deployment from Fedora. No earlier verified example found. **Claim stands until somebody brings receipts.**
+
+Documented the reproducible workflow, dependencies, authentication workarounds, and physical-device verification for an upstream contribution to `omarchy-apple-dev`.
+
+*The penguin climbed the walled garden. The monkey planted the flag.* 🐧🐒
+
+### Other Contributions
+
 - ✅ Contributed a merged improvement to the Jellyfin Android TV application.
 - 🔧 Submitted a Go contribution to an open-source VicoHome camera client.
 - Comfortable reading, debugging, and modifying unfamiliar codebases.
