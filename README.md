@@ -102,6 +102,15 @@ Documented the reproducible workflow, dependencies, authentication workarounds, 
 
 ---
 
+## 🏆 Trophy Case (Mostly Decorative)
+
+- [**Google Play Academy Ignite**](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/194308603) - I solemnly swear not to ship shovelware.
+
+- [**GitHub Foundations**](https://github.com/user-attachments/files/33979771/certificate-4.pdf) - I can Git(Hub) blah blah 10hr == 50m.
+
+
+---
+
 ## Current Projects
 
 - 🌦️ **Privacy-Focused Android Weather App** — Building a lightweight Kotlin
