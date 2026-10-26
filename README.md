@@ -108,7 +108,14 @@ Documented the reproducible workflow, dependencies, authentication workarounds, 
 
 - [**GitHub Foundations**](https://github.com/user-attachments/files/33979771/certificate-4.pdf) - I can Git(Hub) blah blah 10hr == 50m.
 
-- [**Linux Foundation LFS101**](https://github.com/user-attachments/files/33981350/lfs101-cert.pdf) - I can sudo!
+  
+-  [**Linux Foundation LFS101**](https://github.com/user-attachments/files/33981350/lfs101-cert.pdf) - I can sudo!
+  <img src="https://github.com/user-attachments/assets/63fb4d01-028c-4715-9c88-487d4151bdf9" alt="Super Sudo" style="width:15%; height:auto;" />
+  <img src="https://github.com/user-attachments/assets/a315e661-8fec-4366-b5a4-17b07f9f183d" alt="Can Git(Hub)" style="width:20%; height:auto;" />
+  <img width="744" height="575" alt="image" src="https://github.com/user-attachments/assets/eb5a7ca3-8b99-465c-86b2-f225845c4141" alt="Shovelware is bad mmkay" style="width:15%; height:auto;" />
+
+
+
 
 
 
