@@ -108,6 +108,9 @@ Documented the reproducible workflow, dependencies, authentication workarounds, 
 
 - [**GitHub Foundations**](https://github.com/user-attachments/files/33979771/certificate-4.pdf) - I can Git(Hub) blah blah 10hr == 50m.
 
+- [**Linux Foundation LFS101**](https://github.com/user-attachments/files/33981350/lfs101-cert.pdf) - I can sudo!
+
+
 
 ---
 
